@@ -18,3 +18,40 @@
 .container{
     margin-bottom: 80px;
 }
+.watch{
+    background-color: violet;
+}
+.bag{
+    background-color: tomato;
+}
+.shoes{
+    background-color: rgb(170, 170, 9);
+}
+.watch, .bag, .shoes{
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Subscribe{
+    height: 300px;
+}
+.subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
